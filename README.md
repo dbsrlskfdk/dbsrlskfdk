@@ -1,6 +1,9 @@
 Hello, My name is 황윤기. 
+
 I was born in Seoul in 1997.
+
 I'm in Junior in Gachon-Univ. But, I am taking a semester off now.
+
 I'm interested in NLP and Overall-Algorithms
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbsrlskfdk&layout=compact&theme=omni&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
