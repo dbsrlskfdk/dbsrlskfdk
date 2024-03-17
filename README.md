@@ -1,12 +1,10 @@
 <a href="https://velog.io/@dbsrlskfdk"> <img src="http://img.shields.io/badge/Velog-V-brightgreen?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dbsrlskfdk" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
-Hello, My name is 황윤기. 
+Hello, My name is Yungi. 
 
 I was born in Seoul in 1997.
 
-~~I'm in Junior in Gachon-Univ. But, I am taking a semester off now.~~
-
-I'm in Senior in Gachon Univ. (2023.)
+I'm in Senior in Gachon Univ. (2024.)
 
 I'm interested in NLP and Overall-Algorithms
 
