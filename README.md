@@ -1,5 +1,3 @@
-<a href="https://velog.io/@dbsrlskfdk"> <img src="http://img.shields.io/badge/Velog-brightgreen?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dbsrlskfdk" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-
 <a href="https//one-way-people.tistory.com"> <img alt="Static Badge" src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=tistory&link=https//one-way-people.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
 
